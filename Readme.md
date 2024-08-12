@@ -1,5 +1,5 @@
 ## Análisis de Ventas con Power BI
-  ![Imagen de portada](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/ventas.jfif)
+  ![Imagen de portada](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/ventass.jpg)
 
 Este proyecto se centra en el análisis de datos de ventas utilizando Power BI como herramienta principal. El objetivo es explorar, analizar y visualizar las métricas clave de una base de datos de ventas, proporcionando insights valiosos a través de un panel interactivo y funcional.
 
