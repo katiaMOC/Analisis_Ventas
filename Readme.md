@@ -57,20 +57,20 @@ El análisis se ha estructurado de la siguiente manera:
 * Métricas por Ingresos 
     ![Imagen de metricas_ingresos](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/metrica_ingresos.jpeg)
     ![Imagen de muestradrill](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/muestra_DrillT.jpeg)
-    ![Imagen de reporte_drillt](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/reporte_Drill.jpeg)
+    ![Imagen de reporte_drillt](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/reporte_DrillT.jpeg)
 
 * Mapas Ventas por Región:
-    ![Imagen de Mapas](https://github.com/katiaMOC/Analisis_Ventas/blob/main/Mapas.jpeg)
+    ![Imagen de Mapas](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/Mapas.jpeg)
 
 * Uso de Bookmarks 
     `Gráficos` 
-    ![Imagen de graficos](https://github.com/katiaMOC/Analisis_Ventas/blob/main/Bookmark_graficos.jpeg)
+    ![Imagen de graficos](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/Bookmark_graficos.jpeg)
 
     `Tablas`
-    ![Imagen de Tabla](https://github.com/katiaMOC/Analisis_Ventas/blob/main/Bookmark_tablas.jpeg)
+    ![Imagen de Tabla](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/Bookmark_tablas.jpeg)
 
 * Comparativas Por Años:
-     ![Imagen de comparativa por años](https://github.com/katiaMOC/Analisis_Ventas/blob/main/Comparativa_años.jpeg)
+     ![Imagen de comparativa por años](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/Comparativa_años.jpeg)
 
 
 # 4. Conclusiones
