@@ -64,7 +64,7 @@ El análisis se ha estructurado de la siguiente manera:
 
 * Uso de Bookmarks 
     `Gráficos` 
-    ![Imagen de graficos](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/bookmark_graficos/.jpeg)
+    ![Imagen de graficos](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/bookmark_graficos.jpeg)
 
     `Tablas`
     ![Imagen de Tabla](https://github.com/katiaMOC/Analisis_Ventas/blob/main/IMG/bookmark_tablas.jpeg)
